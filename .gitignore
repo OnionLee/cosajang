@@ -1,0 +1,11 @@
+# 녹화 파일 (대용량)
+assets/recordings/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 임시 파일
+*.tmp
+*~
